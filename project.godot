@@ -1,0 +1,13 @@
+; Engine configuration file.
+; Open this file with Godot 4.3+ to test the godot-cli plugin.
+
+config_version=5
+
+[application]
+
+config/name="godot-cli test"
+config/features=PackedStringArray("4.3", "Forward Plus")
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot_cli/plugin.cfg")

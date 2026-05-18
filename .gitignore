@@ -1,0 +1,25 @@
+# Go
+/godot-cli
+/godot-cli.exe
+*.test
+
+# Build output
+/dist/
+/plugin_release/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Godot generated
+.godot/
+*.uid
+
+# Claude / OMC
+.claude/
+.omc/
